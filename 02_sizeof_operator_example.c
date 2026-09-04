@@ -1,7 +1,6 @@
 /*
  * This program demonstrates the sizeof operator in C.
  * It prints the memory size, in bytes, of several types and an expression.
- * The original example was printed on pages 11-12.
  */
 
 /* Includes declarations for printf, which is used to display output. */
