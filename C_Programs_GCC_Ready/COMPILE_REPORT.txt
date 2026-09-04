@@ -1,9 +1,0 @@
-GCC compilation report
-======================
-
-All 53 source files compiled successfully with:
-
-gcc -std=c11 -Wall -Wextra -Wpedantic <source.c> -o <output>
-
-Compilation date: 2026-09-04
-Warnings/errors: none emitted by the compile-all run.
